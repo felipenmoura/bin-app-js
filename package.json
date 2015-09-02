@@ -1,0 +1,46 @@
+{
+    "name": "mclang",
+    "version": "0.1.0",
+    "description": "...",
+    "author": "Felipe N. Moura <felipenmoura@gmail.com>",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": "./mclang",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/felipenmoura/..."
+    },
+    "bugs": {
+        "url": "https://github.com/felipenmoura/.../issues"
+    },
+    "keywords": [
+        "machine language",
+        "learning",
+        "generator",
+        "code",
+        "inteligence",
+        "parser",
+        "interpreter"
+    ],
+    "dependencies": {
+        "meow": "3.3.0",
+        "progress": "1.1.8",
+        "cli-color": "1.0.0"
+    },
+    "devDependencies": {
+        "babel": "^5.8.23",
+        "babelify": "^6.2.0",
+        "browserify": "^11.0.1",
+        "gulp": "^3.9.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sourcemaps": "^1.5.2",
+        "gulp-uglify": "^1.4.0",
+        "vinyl-buffer": "^1.0.0",
+        "vinyl-source-stream": "^1.1.0",
+        "qunit": "0.7.6"
+    },
+    "preferGlobal": true,
+    "analyze": true,
+    "license": "MIT"
+}
