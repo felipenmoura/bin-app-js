@@ -1,0 +1,3 @@
+McLang!
+
+This software tries to understand you in the highest level as possible, and generates some inteligent markup, or knowledge base, for many different purposes.
