@@ -1,11 +1,11 @@
-|\    /|       |      ____          
-| \  / |  ____ |     |    '  __   __   ___
-|  \/  | |     |     |---_  |  \ /  | |    \
-|      | l____ l____ l____| |   V   | l____|
+[[bold]][[yellow]]|\    /| [[/yellow]]      [[red]]|      ____  [[/red]]
+[[yellow]]| \  / |  ____ [[/yellow]][[red]]|     |    '  __   __   ___[[/red]]
+[[yellow]]|  \/  | |     [[/yellow]][[red]]|     |---_  |  \ /  | |    \[[/red]]
+[[yellow]]|      | l____ [[/yellow]][[red]]l____ l____| |   V   | l____|
                                         ___|
                                        /   |
-                                       l___/
+                                       l___/[[/red]][[/bold]]
 
-McLang!
+[[bold]]McLang![[/bold]]
 
 This software tries to understand you in the highest level as possible, and generates some inteligent markup, or knowledge base, for many different purposes.
