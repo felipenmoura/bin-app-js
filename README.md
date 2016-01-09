@@ -16,6 +16,7 @@ But if you want to simply clone it and change the properties, it will be easy to
 ## How it works(and why to use it)?
 
 Clone it, go to the directory and rename the `your-app` file to some better name than that. Let's call it `bin-demo` for our example.
+Also, change the information in the `package.json` file.
 Then
 
 ```npm install```
