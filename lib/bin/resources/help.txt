@@ -1,11 +1,3 @@
-[[bold]][[yellow]]|\    /| [[/yellow]]      [[red]]|      ____  [[/red]]
-[[yellow]]| \  / |  ____ [[/yellow]][[red]]|     |    '  __   __   ___[[/red]]
-[[yellow]]|  \/  | |     [[/yellow]][[red]]|     |---_  |  \ /  | |    \[[/red]]
-[[yellow]]|      | l____ [[/yellow]][[red]]l____ l____| |   V   | l____|
-                                        ___|
-                                       /   |
-                                       l___/[[/red]][[/bold]]
+[[bold]][[yellow]]Bin App[[/yellow]] - [[red]] DEMO [[/red]][[/bold]]
 
-[[bold]]McLang![[/bold]]
-
-This software tries to understand you in the highest level as possible, and generates some inteligent markup, or knowledge base, for many different purposes.
+This is the header for your help file.

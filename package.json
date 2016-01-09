@@ -1,12 +1,12 @@
 {
-  "name": "mclang",
+  "name": "yourApp",
   "version": "0.1.0",
-  "description": "...",
+  "description": "Add description here.",
   "author": "Felipe N. Moura <felipenmoura@gmail.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "./mclang",
+  "bin": "./your-app",
   "repository": {
     "type": "git",
     "url": "https://github.com/felipenmoura/..."
@@ -15,13 +15,6 @@
     "url": "https://github.com/felipenmoura/.../issues"
   },
   "keywords": [
-    "machine language",
-    "learning",
-    "generator",
-    "code",
-    "inteligence",
-    "parser",
-    "interpreter"
   ],
   "dependencies": {
     "meow": "~3.3.0",
