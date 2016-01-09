@@ -114,7 +114,9 @@ module.exports = {
 ```
 
 To use this dictionary, use:
+
 ```utils.l10n.messages.goodBye```
+
 
 ## Better output
 
